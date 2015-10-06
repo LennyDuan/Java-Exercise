@@ -1,4 +1,4 @@
-// Ecercise 4: A simple game of HiLo using objects
+// Ecercise 1: A simple game of HiLo using objects
 // In this game, the player has to guess a number. For each guess, they are told whether the number is higher or lower than their guess. The number of guesses may be limited, and the range of numbers to guess from could be altered. Your final model should include a game manager and different players, but start simply with the game itself, a single player and functionality to maintain scores.
 // When you have a basic game working, consider different computer strategies for this game, implementing a couple of computer player strategies.
 // If you want to have interaction with the user during run-time, you may find the following useful. A simple utility to read input from the command line in Java is called a Scanner. We will be covering this in more detail in later lectures, but for the time being here is an example. Note: in order to use the Scanner, you must first tell Java to import it:
