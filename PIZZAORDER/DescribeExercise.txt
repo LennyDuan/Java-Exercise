@@ -1,0 +1,9 @@
+Pizza : Expand your own Pizza Company
+
+You are starting your own pizza company and want to offer customers a great range of pizzas. 
+This should include the choice of everything from the base, sauce and toppings. 
+However the pizzas will not be free, nor will they all cost the same. Equally, you may want to offer a menu of set pizzas.
+Consider whether your Pizza Parlour is going to offer other menu items that can use a similar set of customisable ingredients, for example pancakes.
+Customers should be able to come in and order a selection of pizzas (and pancakes). At the end of their meal, they should receive a bill for the meal.
+If you really want to go that step further, consider keeping track of your stock. 
+At some point you will run out of stock and be unable to offer it as a choice.
