@@ -1,0 +1,16 @@
+pu   333333   111111   MARMOSET   BIRTH   false   null
+Lily   880460   222222   LEOPARD   DEATH   true   null
+lenny   111111   333333   MARMOSET   DEATH   true   null
+Lily   880460   444444   MARMOSET   BIRTH   true   meet
+lenny   111111   666666   QEUIRREL   BIRTH   false   Fruit
+alex   222222   777777   MARMOSET   BIRTH   false   null
+alex   222222   111112   TIGER   DEATH   false   Meat
+alex   222222   121111   TIGER   DEATH   false   null
+lenny   111111   999999   TIGER   NEW   true   meet
+pu   333333   123331   QEUIRREL   DEATH   true   nut
+alex   222222   228279   CAPUCHIN   NEW   true   Fruit
+pu   333333   848900   LYNX   BIRTH   true   Meat
+Lily   880460   427608   QEUIRREL   BIRTH   false   Fruit
+alex   222222   144803   TIGER   NEW   false   Meat
+alex   222222   708632   TIGER   NEW   false   Meat
+lenny   111111   665793   QEUIRREL   BIRTH   false   null

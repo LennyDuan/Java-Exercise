@@ -1,0 +1,14 @@
+Borth Animalarium is planning on introducing a new computer system that allows them to monitor what animals they have and the zoo keepers assigned to take care of each type of animal. As part of the system prototype, they want to focus on a small number of animals, in particular the big cats (tigers, leopards, lynx) and the primates (marmosets, Capuchin monkeys and squirrel monkeys).
+The zoo keeper should be able to:
+• View all the animals under his/her care
+• Add and remove animals of that type when there is a birth/death or new animals arrive
+• Feed the animals
+• Clean the animals enclosures
+In addition, the managers at the animalarium should be able to:
+• View all of the animals by type, and who their zoo keeper is
+• View the list of zoo keepers and which animals they take care of
+• Add and remove zoo keepers
+• Allocate zoo keepers to animals
+While the history of feeding an cleaning does not need to be maintained, the system should remember the previous state when it is restarted, i.e. the users, animals, allocations.
+At this stage, any user input should be limited to text based command line interaction. Data recorded between sessions should be stored using a basic text file format.
+Optional WOW functionality: Some bonus marks are available for any additional features that WOW us. These feature should be identified and documented in the user manual and design documentation.
