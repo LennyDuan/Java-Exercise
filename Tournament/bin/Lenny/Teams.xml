@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Teams xmlns="Lenny Teams">
+	<Team id="1000">
+		<one>1</one>
+		<two>2</two>
+		<three>3</three>
+		<four>4</four>
+		<five>5</five>
+	</Team>
+	<Team id="1001">
+		<one>6</one>
+		<two>7</two>
+		<three>8</three>
+		<four>9</four>
+		<five>10</five>
+	</Team>
+	<Team id="1002">
+		<one>11</one>
+		<two>12</two>
+		<three>13</three>
+		<four>14</four>
+		<five>15</five>
+	</Team>
+	<Team id="1003">
+		<one>16</one>
+		<two>17</two>
+		<three>18</three>
+		<four>19</four>
+		<five>20</five>
+	</Team>
+	<Team id="1004">
+		<one>21</one>
+		<two>22</two>
+		<three>23</three>
+		<four>24</four>
+		<five>25</five>
+	</Team>
+	<Team id="1005">
+		<one>26</one>
+		<two>27</two>
+		<three>28</three>
+		<four>29</four>
+		<five>30</five>
+	</Team>
+	<Team id="1006">
+		<one>31</one>
+		<two>32</two>
+		<three>33</three>
+		<four>34</four>
+		<five>35</five>
+	</Team>
+	<Team id="1007">
+		<one>36</one>
+		<two>37</two>
+		<three>38</three>
+		<four>39</four>
+		<five>40</five>
+	</Team>
+	<Team id="1008">
+		<one>41</one>
+		<two>42</two>
+		<three>43</three>
+		<four>44</four>
+		<five>45</five>
+	</Team>
+	<Team id="1009">
+		<one>46</one>
+		<two>47</two>
+		<three>48</three>
+		<four>49</four>
+		<five>50</five>
+	</Team>
+	<Team id="1010">
+		<one>51</one>
+		<two>52</two>
+		<three>53</three>
+		<four>54</four>
+		<five>55</five>
+	</Team>
+	<Team id="1011">
+		<one>56</one>
+		<two>57</two>
+		<three>58</three>
+		<four>59</four>
+		<five>60</five>
+	</Team>
+	<Team id="1012">
+		<one>61</one>
+		<two>62</two>
+		<three>63</three>
+		<four>64</four>
+		<five>65</five>
+	</Team>
+	<Team id="1013">
+		<one>66</one>
+		<two>67</two>
+		<three>68</three>
+		<four>69</four>
+		<five>70</five>
+	</Team>
+	<Team id="1014">
+		<one>71</one>
+		<two>72</two>
+		<three>73</three>
+		<four>74</four>
+		<five>75</five>
+	</Team>
+	<Team id="1015">
+		<one>76</one>
+		<two>77</two>
+		<three>78</three>
+		<four>79</four>
+		<five>80</five>
+	</Team>
+	<Team id="1016">
+		<one>81</one>
+		<two>82</two>
+		<three>83</three>
+		<four>84</four>
+		<five>85</five>
+	</Team>
+	<Team id="1017">
+		<one>86</one>
+		<two>87</two>
+		<three>88</three>
+		<four>89</four>
+		<five>90</five>
+	</Team>
+	<Team id="1018">
+		<one>91</one>
+		<two>92</two>
+		<three>93</three>
+		<four>94</four>
+		<five>95</five>
+	</Team>
+	<Team id="1019">
+		<one>96</one>
+		<two>97</two>
+		<three>98</three>
+		<four>99</four>
+		<five>100</five>
+	</Team>
+</Teams>
